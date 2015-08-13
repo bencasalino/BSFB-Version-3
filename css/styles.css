@@ -1,8 +1,16 @@
 body {
-    background-color: black;
+    background-color: #e8e8e8;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 h1 {
-    color: white;
+    color: #202020;
     margin-left: 20px;
+}
+
+
+
+footer {
+  background-color: white;
 }
