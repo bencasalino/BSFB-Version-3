@@ -1,5 +1,5 @@
 body {
-    background-color: #e8e8e8;
+    background-color: white;
 
 }
 h1 {
@@ -16,7 +16,7 @@ footer {
 
 
 h3 {
-    color: #181818;
+    color: white;
 }
 
 
@@ -59,6 +59,7 @@ div.blue {
   overflow-y: auto;
   z-index: 1000;
   transition: all 0.4s ease 0s;
+    color: white;
 }
 
 #page-content-wrapper {
@@ -71,13 +72,14 @@ div.blue {
 .sidebar-nav {
   position: absolute;
   top: 0;
-  width: 250px;
+  width: 200px;
   list-style: none;
   margin-left: 10%;
   margin-top: 10%;
   margin-bottom: 10%;
   margin-right: 10%;
   padding: 0;
+  color: white;
 }
 
 @media (max-width:767px) {
@@ -101,4 +103,27 @@ div.blue {
       transition: all 0.4s ease 0s;
     }
 
+}
+
+
+
+
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: blue;
 }
