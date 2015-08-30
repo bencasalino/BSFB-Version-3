@@ -1,4 +1,4 @@
-####### Bball-Season8 
+####### Bball-Season8
 
 ###### Links
 * _{Facebook Group Page}_
@@ -15,13 +15,9 @@
 _{This is website is not affiliated with the NBA in anyway,
 merely a place to keep track of stats from our league. }_
 
-
-_{https://www.facebook.com/groups/123422284409807/}_
-_{http://games.espn.go.com/fba/leagueoffice?leagueId=57357}_
-
 ## Setup
 
-* nothing yet, possibly PHP
+* nothing yet, possibly PHP,JS and/or some kind of database
 
 
 ## Technologies Used
