@@ -38,7 +38,7 @@ div.spacer {
 div.blue {
   max-width: 100%;
   background-color: dodgerblue;
-  color: red;
+  color: dodgerblue;
 }
 
 div.red {
@@ -133,6 +133,6 @@ a:hover {
 
 /* selected link */
 a:active {
-    color: blue;
+    color: black;
     text-decoration: none;
 }
