@@ -41,7 +41,11 @@ div.blue {
   color: red;
 }
 
-
+div.red {
+  max-width: 100%;
+  background-color: red;
+  color: red;
+}
 
 
 #wrapper {
