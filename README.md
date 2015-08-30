@@ -1,7 +1,12 @@
-# Bball-Season8
-# _{BSFB Fantasy Basketball Season VIII}_
+####### Bball-Season8
+###### _{BSFB Fantasy Basketball Season VIII}_
 
-##### _{Fantasy Basketball}, {Version 2, 8/13/15}_
+_{Facebook Group Page}
+_{https://www.facebook.com/groups/123422284409807/}_
+_{ESPN League Home}_
+_{http://games.espn.go.com/fba/leagueoffice?leagueId=57357}_
+
+##### _{Fantasy Basketball}, {Version 3, 9/1/15}_
 
 #### By _**{Benjamin M. Casalino}**_
 
@@ -9,6 +14,10 @@
 
 _{This is website is not affiliated with the NBA in anyway,
 merely a place to keep track of stats from our league. }_
+
+
+_{https://www.facebook.com/groups/123422284409807/}_
+_{http://games.espn.go.com/fba/leagueoffice?leagueId=57357}_
 
 ## Setup
 
