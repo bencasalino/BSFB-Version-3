@@ -23,7 +23,7 @@ h3 {
 div.classy {
   max-width: 100%;
   padding: 5px;
-  background-color: red;
+  background-color: #cc2c2e;
   color: white;
 }
 
@@ -37,14 +37,14 @@ div.spacer {
 
 div.blue {
   max-width: 100%;
-  background-color: dodgerblue;
-  color: dodgerblue;
+  background-color: #0253a4;
+  color: #0253a4;
 }
 
 div.red {
   max-width: 100%;
-  background-color: red;
-  color: red;
+  background-color: #cc2c2e;
+  color: #cc2c2e;
 }
 
 
@@ -57,7 +57,7 @@ div.red {
   margin-left: -250px;
   left: 250px;
   width: 250px;
-  background: dodgerblue;
+  background: #525252;
   position: fixed;
   height: 100%;
   overflow-y: auto;
@@ -115,24 +115,24 @@ div.red {
 
 /* unvisited link */
 a:link {
-    color: black;
+    color: gray;
     text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-    color: black;
+    color: gray;
     text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-    color: red;
+    color: #cc2c2e;
     text-decoration: none;
 }
 
 /* selected link */
 a:active {
-    color: black;
+    color: gray;
     text-decoration: none;
 }
