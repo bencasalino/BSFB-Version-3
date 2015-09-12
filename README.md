@@ -16,6 +16,9 @@ _{This is website is not affiliated with the NBA in anyway,
 merely a place to keep track of stats from our league. }_
 
 ## Setup
+* HTML
+* CSS
+* BOOTSTRAP 3
 
 * nothing yet, possibly PHP,JS and/or some kind of database
 
