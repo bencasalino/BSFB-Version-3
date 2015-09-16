@@ -16,17 +16,17 @@ _{This is website is not affiliated with the NBA in anyway,
 merely a place to keep track of stats from our league. }_
 
 ## Setup
-* HTML
-* CSS
-* BOOTSTRAP 3
+* will add later
 
-* nothing yet, possibly PHP,JS and/or some kind of database
+
 
 
 ## Technologies Used
-* Bootstrap
-* HTML and CSS
-
+* HTML
+* CSS
+* BOOTSTRAP 3
+* JAVASCRIPT
+* JQUERY
 ### Legal
 
 *{This is boilerplate legal language. Read through it, and if you like it, use it. There are other license agreements online, but you can generally copy and paste this.}*
