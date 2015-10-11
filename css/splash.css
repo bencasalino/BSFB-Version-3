@@ -110,6 +110,8 @@ font-weight: normal;
 .vs {
 font-weight: bolder;
     color: #0B76BC;
+    margin-left: 5px;
+    margin-right: 5px;
 
 
 }
@@ -146,4 +148,18 @@ color: #86e394;
 }
 .glyphicon-triangle-left {
     font-size: 10px;
+}
+
+.ul{
+background-color: #0B76BC;
+color: #0B76BC;
+}
+
+.black {
+    color:black;
+}
+
+
+.jon {
+color: green;
 }
