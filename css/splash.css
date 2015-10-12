@@ -18,6 +18,14 @@ padding-top: -50px;
 /*cream*/
 }
 
+.redline {
+color: #EB2229;
+}
+
+.fb {
+height:16px;
+width: 16px;
+}
 
 p  {
 text-decoration: none;
@@ -45,6 +53,7 @@ padding-top: 50px;
     background-image: none;
     color: #F5F5EF;
      border: 0;
+     z-index: -100;
 }
 
 .standings {
