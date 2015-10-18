@@ -14,8 +14,8 @@
 body {
 background-color: #F5F5EF;
 padding-top: -50px;
-/*margin-left: 100px;
-margin-right: 100px;*/
+padding-right: 100px;
+padding-left: 100px;
 /*cream*/
 }
 
@@ -30,9 +30,8 @@ width: 16px;
 
 p  {
 text-decoration: none;
-text-align: center;
 padding: 10px;
-color: #EB2229;
+color: #0B76BC;
 /*red*/
 font-style: normal;
 font-weight: lighter;
