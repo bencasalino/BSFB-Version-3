@@ -43,7 +43,7 @@ font-size: 16px;
 .circ {
 max-height: 300px;
 max-width: 300px;
-padding-top: 50px;
+padding-top: -30px;
 }
 /*blue*/
 /*color: #0B76BC;*/
@@ -109,7 +109,7 @@ font-family: sans-serif;
 thead {
 color: #3A3838;
 /*cream*/
-font-size: 18px;
+font-size: 16px;
 font-weight: normal;
 }
 .table {
