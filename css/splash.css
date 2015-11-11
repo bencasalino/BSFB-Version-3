@@ -14,18 +14,50 @@
 body {
 background-color: #F5F5EF;
 padding-top: -50px;
-/*margin-left: 100px;
-margin-right: 100px;*/
+margin-left: 100px;
+margin-right: 100px;
+     z-index: -4;
 /*cream*/
 }
+
+.test {
+font-size: 14px;
+
+}
+
+h6 {
+display: inline;
+}
+
+.navbar-center {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    /*margin: auto;*/
+    /*word-spacing: 30px;*/
+    display: inline;
+         z-index: -2;
+}
+
+.navbar {
+    background: transparent;
+    background-image: none;
+    color: #F5F5EF;
+     border: 0;
+     z-index: -2;
+     /*display: inline-block;*/
+}
+
+
 
 .redline {
 color: #EB2229;
 }
 
 .fb {
-height:16px;
-width: 16px;
+height:14px;
+width: 14px;
 }
 
 p  {
@@ -43,19 +75,10 @@ font-size: 16px;
 .circ {
 max-height: 300px;
 max-width: 300px;
-padding-top: -30px;
+padding-top: -50px;
 }
 /*blue*/
 /*color: #0B76BC;*/
-
-.navbar {
-    /*background-color: #0B76BC;*/
-    background: transparent;
-    background-image: none;
-    color: #F5F5EF;
-     border: 0;
-     z-index: -100;
-}
 
 .standings {
 /*background-color: #0B76BC;*/
@@ -64,8 +87,6 @@ padding: 5%;
 /*position: relative;*/
 /*background-color: #0B76BC;*/
 }
-
-
 
 .powerrank {
 /*background-color: #0B76BC;*/
@@ -180,7 +201,7 @@ color: green;
 
 
 
-a:link    {color:#0B76BC; background-color:transparent; text-decoration:none}
-a:visited {color:#0B76BC; background-color:transparent; text-decoration:none}
-a:hover   {color:#0B76BC; background-color:transparent; text-decoration:none}
-a:active  {color:#0B76BC; background-color:transparent; text-decoration:none}
+a:link    {color:#0B76BC; text-decoration:none}
+a:visited {color:#0B76BC; text-decoration:none}
+a:hover   {color:#0B76BC; text-decoration:none}
+a:active  {color:#0B76BC; text-decoration:none}
